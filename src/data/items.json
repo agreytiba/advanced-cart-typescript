@@ -1,0 +1,39 @@
+[
+	{
+		"id": 1,
+		"name": "Book",
+		"price": 10.99,
+		"imgUrl": "/imgs/book.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Computer",
+		"price": 1199,
+		"imgUrl": "/imgs/computer.jpg"
+	},
+	{
+		"id": 3,
+		"name": "samsung 22",
+		"price": 800,
+		"imgUrl": "/imgs/samsung2.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Car",
+		"price": 14000,
+		"imgUrl": "/imgs/car.jpg"
+	},
+
+	{
+		"id": 5,
+		"name": "samsung 21",
+		"price": 1000,
+		"imgUrl": "/imgs/samsung.webp"
+	},
+	{
+		"id": 6,
+		"name": "samsung 20",
+		"price": 1100,
+		"imgUrl": "/imgs/samsung1.jpg"
+	}
+]
